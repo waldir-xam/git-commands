@@ -19,3 +19,6 @@
 
 ```
 8- git checkout -b rama-heroes
+
+9- git checkout master
+
